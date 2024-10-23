@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+#museum {
+
+    width: 100px;
+    height: auto;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/originals/41/be/89/41be89cdd4897209c58ed607e35196c3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+
+    font-family: "Nunito", sans-serif;
+}
+
+#image {
+    /* position: absolute;
+    top: 3;
+    left: 0; */
+    float: left;
+}
+
+li {
+    color: rgb(216, 0, 216)
+}
+
+#copy {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+#kirby2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: translate(0, 0);
+    width: 350px;
+    height: auto;
+}
+
+.center-text {
+    width: 100%;
+    float: left;
+}
+
+h1 {
+    text-align: left;
+    font-size: 30px;
+    color: rgb(17, 0, 255);
+}
+
+p {
+    color: rgb(167, 79, 108);
+    /* position: absolute; */
+    bottom: 0;
+    left: 0;
+
+}
+
+h2 {
+
+    text-align: center;
+    color: rgb(255, 75, 234);
+    font-size: 45px;
+}
+
+#p1 {
+    max-width: 200px;
+    margin-left: 20px;
+    float: left;
+}
+
+#Copy_Ability {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: translate(0, 0);
+    width: 350px;
+    height: auto;
+}
+
+#kirbygif {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#abilitys {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+#copy {
+    bottom: 0;
+    right: 0;
+    width: 250px;
+    height: auto;
+}
+
+#MK {
+    position: absolute;
+    bottom: 150px;
+    right: 0;
+    width: 250px;
+    height: auto;
+}
+
+#PP {
+    width: 200px;
+    height: auto;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+#MK1 {
+    color: rgb(101, 36, 133);
+    position: absolute;
+    width: 250px;
+    left: 600px;
+    bottom: 180px;
+}
+
+#GK {
+    height: auto;
+    width: 250px;
+    position: absolute;
+    left: 830px;
+    bottom: 0px;
+}
+
+#p1 {
+    color: whitesmoke;
+}
+
+#K1 p {
+    color: rgb(50, 6, 56);
+}
+
+#K4 {
+    position: absolute;
+    left: px;
+    top: 70%;
+    transform: translateY(-50%);
+
+}
+
+#K3 {
+    position: absolute;
+    left: 830px;
+    width: 250px;
+    bottom: 700px;
+}
+
+#GK1 {
+    position: absolute;
+    left: 600px;
+    width: 250px;
+    bottom: 40px;
+    color: rgb(50, 6, 56);
+}
